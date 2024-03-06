@@ -1,0 +1,38 @@
+body {
+  margin: 1.25em 4.375em; 
+  font-family: Arial, sans-serif; 
+}
+
+header {
+  margin-bottom: 1.25em; 
+  text-align: center;
+}
+
+main h2 {
+  border-bottom: 0.0625em solid black; 
+  margin: 0; 
+  padding-bottom: 0.3125em; 
+}
+
+nav ul {
+  list-style-type: none; 
+  padding: 0; 
+  text-align: center;
+}
+
+nav ul li {
+  display: inline; 
+  margin-right: 1.25em; 
+}
+
+nav ul li a {
+  text-decoration: none; /* removing underline from links */
+}
+
+footer {
+  margin-top: 4.375em; /* adding margin above footer */
+}
+
+footer p{
+  margin: 0px; /* resetting margins for footer content */
+}

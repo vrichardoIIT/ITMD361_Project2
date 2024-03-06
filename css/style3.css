@@ -1,0 +1,31 @@
+body {
+  margin: 1.25em 4.375em; 
+  font-family: Arial, sans-serif; 
+}
+
+h1 {
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none; 
+  padding: 0; 
+  text-align: center;
+}
+
+nav ul li {
+  display: inline; 
+  margin-right: 1.25em; 
+}
+
+nav ul li a {
+  text-decoration: none; 
+}
+
+footer {
+  margin-top: 4.375em; 
+}
+
+footer p {
+  margin: 0; 
+}
