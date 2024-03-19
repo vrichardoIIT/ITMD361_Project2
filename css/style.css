@@ -26,13 +26,13 @@ nav ul li {
 }
 
 nav ul li a {
-  text-decoration: none; /* removing underline from links */
+  text-decoration: none; 
 }
 
 footer {
-  margin-top: 4.375em; /* adding margin above footer */
+  margin-top: 4.375em; 
 }
 
 footer p{
-  margin: 0px; /* resetting margins for footer content */
+  margin: 0px; 
 }
