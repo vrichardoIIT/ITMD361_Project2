@@ -1,5 +1,6 @@
 /* Naviagtion */
 #indexnav ul {
+  position: relative;
   list-style-type: none; 
   padding: 0; 
   text-align: center;
@@ -16,12 +17,14 @@
 
 /* change colour */
 #animalnav {
+  position: relative;
   text-decoration: none; 
   color: white;
 }
 
 /*  index  style */
 #indexbody {
+  position: relative;
   margin: 1.25em 4.375em; 
   font-family: Arial, sans-serif; 
 }
@@ -39,6 +42,7 @@
 
 /* goat style */
 #goatbody {
+  position: relative;
   margin: 1.25em 4.375em;
   font-family: Arial, sans-serif;
   text-align: center;
@@ -72,6 +76,7 @@
 }
 
 #image img {
+  position: relative;
   width: 18.75em;
   height: auto;
   display: block;
@@ -82,6 +87,7 @@
 
 /* fat animal style */
 #animalbody {
+  position: relative;
   margin: 1.25em 4.375em; 
   font-family: Arial, sans-serif; 
   text-align: center; 
@@ -115,10 +121,12 @@
 /* footer */
 
 #footer1 {
+  position: absolute;
   margin-top: 4.375em; 
 }
 
 #footerdiffer {
+  position: absolute;
   margin-top: 4.375em; 
   color: white;
 }
