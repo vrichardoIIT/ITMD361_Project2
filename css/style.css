@@ -16,7 +16,7 @@
 }
 
 /* change colour */
-#animalnav {
+#animalnav li a{
   position: relative;
   text-decoration: none; 
   color: white;
